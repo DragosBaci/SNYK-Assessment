@@ -19,7 +19,7 @@ The disadvantage is that a linked list is all over the place in memory, you can�
 404 – when the resource I requested was not found on the backend
 500 – when I forgot to handle an exception on backend so it sends me a generic response
 
-5. Authentication is the process of verifying the identity of a user while authorization is checking if the user has the permission to access the resources he is trying to access or do certain actions on the application.
+5.Authentication is the process of verifying the identity of a user while authorization is checking if the user has the permission to access the resources he is trying to access or do certain actions on the application.
 
 6.I think the best analogy is a giant library where you can ask the librarian for anything you want. This one is a special librarian because even though he has trillions of books in his library, he always knows where to find what you are looking for, and he will bring you at least a book related to what you are trying to get.
 

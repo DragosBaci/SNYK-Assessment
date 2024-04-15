@@ -34,8 +34,9 @@ function printStaircase(n: number): void {
 }
 
 printStaircase(4);
-
-    8.
+```
+8. The function could also return the value but i chose to keep consistency and that is why i logged it.
+```typescript
  function encryptText(text: string): void {
   const removedSpacesText: string = text.split(' ').join('');
 

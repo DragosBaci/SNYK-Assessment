@@ -26,7 +26,7 @@ The disadvantage is that a linked list is all over the place in memory, you canâ
 
 
 
-
+```typescript
 7.The most common approach would be to iterate n times and print each line. This can be done in multiple ways but I will choose the most simple version.
 function printStaircase(n: number): void {
     for (let i = 1; i <= n; i++) {
@@ -39,6 +39,7 @@ function printStaircase(n: number): void {
 printStaircase(4);
 
 8.
+
   function encryptText(text: string): void {
   const removedSpacesText: string = text.split(' ').join('');
 
